@@ -1,3 +1,4 @@
+#Please use https://github.com/marekbeckmann/Bookstack-Debian-Installation-Script
 # Bookstack Debian 11 Installation Script
 
 ## How to use
